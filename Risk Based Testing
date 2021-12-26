@@ -1,0 +1,15 @@
+As far as possible, all test stages will follow a pragmatic risk-based approach.
+In practical terms. this means that test preparation and execution will focus on the highest risk areas first.
+When determining higest risk areas, the following will b considered as a guidline:
+
+-> Criticality to the business 
+-> Technical Complexity 
+-> Contactual and Legal Requirements 
+-> Likelihood of failure 
+
+All requirements, test scenarios and test scripts will be prioritised based on these risk areas using infomration collected and documented during reviews and discussions held with 
+the project stakeholder teams during the test design activity.
+
+Below is a diagram that can be used to determine the risk and apply a risk rating to acceptance criteria.  "https://www.qamadness.com/your-guide-to-understanding-risk-based-testing/"
+
+https://collectivevaluecreation.co.za/wp-content/uploads/2017/10/Risk-Matrix.png
